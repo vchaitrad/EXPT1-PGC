@@ -1,0 +1,5 @@
+matrix_sequential
+matrix_openmp
+matrix_mpi
+matrix_cuda
+*.o

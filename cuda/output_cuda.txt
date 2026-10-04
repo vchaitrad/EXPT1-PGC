@@ -1,0 +1,7 @@
+CUDA Matrix Multiplication Completed
+Matrix Size = 4000 x 4000
+Grid Size = 250 x 250 blocks
+Block Size = 16 x 16 threads
+Kernel Execution Time = 0.294874 seconds
+Total CUDA Phase Time = 0.363913 seconds
+Verification C[0][0] = 4000.00

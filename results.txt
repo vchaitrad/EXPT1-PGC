@@ -1,0 +1,6 @@
+Implementation | Time (s)   | Speedup
+Sequential     | 645.066288 | 1.00x
+OpenMP (4 thr) | 415.637445 | 1.55x
+MPI (4 proc)   | 222.147030 | 2.90x
+CUDA (T4)      | 0.363913   | 1772.58x
+CUDA kernel only: 0.294874 s (2187.6x)

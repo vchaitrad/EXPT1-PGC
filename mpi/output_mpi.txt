@@ -1,0 +1,11 @@
+Initializing 4000 x 4000 matrices...
+Rank 0 on chaitra-VMware-Virtual-Platform computing 1000 rows
+Rank 1 on chaitra-VMware-Virtual-Platform computing 1000 rows
+Rank 2 on chaitra-VMware-Virtual-Platform computing 1000 rows
+Rank 3 on chaitra-VMware-Virtual-Platform computing 1000 rows
+
+MPI Matrix Multiplication Completed
+Matrix Size = 4000 x 4000
+Number of MPI Processes = 4
+Execution Time = 222.147030 seconds
+Verification C[0][0] = 4000.00

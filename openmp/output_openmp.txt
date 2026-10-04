@@ -1,0 +1,5 @@
+OpenMP Matrix Multiplication Completed
+Matrix Size = 4000 x 4000
+Number of Threads Used = 4
+Execution Time = 415.637445 seconds
+Verification C[0][0] = 4000.00
