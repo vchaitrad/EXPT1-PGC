@@ -10,7 +10,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-Tesla%20T4-e63946)
 ![Matrix](https://img.shields.io/badge/Matrix-4000%20x%204000-lightgrey)
 
-**Name:** YOUR NAME &nbsp;|&nbsp; **Roll No:** YOUR ROLL NO &nbsp;|&nbsp; **Course:** PG Parallel Computing
+**Name:** Chaitra &nbsp;|&nbsp; **Roll No:** 253 &nbsp;|&nbsp; **Course:** PG Parallel Computing
 
 </div>
 
